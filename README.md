@@ -1,19 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gmanoori/Gmanoori/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gmanoori/Gmanoori/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github snake" src="https://github.com/Gmanoori/Gmanoori/blob/ dist/github-contribution-grid-snake.svg"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gmanoori/Gmanoori/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gmanoori/Gmanoori/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github snake" src="https://github.com/Gmanoori/Gmanoori/blob/dist/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gmanoori/Gmanoori/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gmanoori/Gmanoori/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github snake" src="https://github.com/Gmanoori/Gmanoori/blob/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gmanoori/Gmanoori/blob/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gmanoori/Gmanoori/blob/output/dist/github-contribution-grid-snake-dark.svg">
+  <img alt="github snake" src="https://github.com/Gmanoori/Gmanoori/blob/output/dist/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 
