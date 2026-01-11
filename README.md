@@ -16,18 +16,12 @@
 - Spark, Scala, Airflow, Kafka, SQL | Precision-Driven Pipeline Perseverer
 - Gymrat 💪 | Dank Meme Dealer 😂 | Time-Disciplined Grinder ⏰
 
-<div align="center">
-
-
 ## 🌐 Connect
-[![Website](https://img.shields.io/badge/Website-🔗-orange)](your-site)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-ig-for-memes-gym)
 <!-- [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-x) -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-🔗-blue?style=for-the-badge&logo=notion&logoColor=white)](https://your-portfolio-link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
 
 
 ## 🛠️ Tech Stack
