@@ -18,10 +18,10 @@
 
 ## 🌐 Connect
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/intellectualbamboo/)
-<!-- [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-x) -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-🔗-blue?style=for-the-badge&logo=notion&logoColor=white)](https://your-portfolio-link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-manoori-014415249/?trk=opento_sprofile_pfeditor)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmanoori@gmail.com)
+<!-- [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-x) -->
 
 
 ## 🛠️ Tech Stack
