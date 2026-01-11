@@ -6,9 +6,9 @@
 
 
 # Yo! 🚀 Ganesh here 👋
-IT Grad | Aspiring Data Engineer | Hyderabad Beast Mode
-Spark, Scala, Airflow, Kafka, SQL | Precision-Driven Pipeline Perseverer
-Gymrat 💪 | Dank Meme Dealer 😂 | Time-Disciplined Grinder ⏰
+- IT Grad | Aspiring Data Engineer | Hailing From Hyderabad
+- Spark, Scala, Airflow, Kafka, SQL | Precision-Driven Pipeline Perseverer
+- Gymrat 💪 | Dank Meme Dealer 😂 | Time-Disciplined Grinder ⏰
 
 <!-- ![Metrics](https://github-readme-stats.vercel.app/api?username=Gmanoori&show_icons=true&theme=tokyonight&hide_border=true) -->
 
