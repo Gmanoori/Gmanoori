@@ -1,11 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gmanoori/Gmanoori/blob/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gmanoori/Gmanoori/blob/dist/github-contribution-grid-snake-dark.svg">
-  <img alt="github snake" src="https://github.com/Gmanoori/Gmanoori/blob/dist/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gmanoori/Gmanoori/blob/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gmanoori/Gmanoori/blob/main/dist/github-contribution-grid-snake-dark.svg">
+  <img alt="github snake" src="https://github.com/Gmanoori/Gmanoori/blob/main/dist/github-contribution-grid-snake-dark.svg"/>
 </picture>
-
-
-
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Hey!+I%27m+Ganesh;Aspiring+Data+Engineer+%F0%9F%9A%80;Spark+%7C+Scala+%7C+Airflow+%7C+Kafka;Gymrat+by+Day%2C+Code+Warrior+by+Night;Persevering+through+the+grind+🚀" alt="typing svg" />
