@@ -58,9 +58,9 @@
 ## 🔥 Projects That Didn't Suck
 | Project | Description | Tech | 📊
 |---------|-------------|------|-----|
-| [project1](link) | Spark + Airflow ETL beast | Spark/Scala/Docker | 🚀 [Demo] |
-| [kafka_stream](link) | Real-time streaming POC | Kafka/SQL | 🕸️ [Blog] |
-| [Alpaca RAG](link) | Local LLM experiments | Python/LLMs | 🤖 [Repo] |
+| [project1](https://github.com/Gmanoori/POC) | Spark + Airflow ETL beast | Spark/Scala/Docker | 🚀 [Demo] |
+| [kafka_stream] - In Progress... | Real-time streaming POC | Kafka/SQL | 🕸️ [Blog] |
+| [Alpaca RAG](https://github.com/Gmanoori/LLM_v0) | Local LLM experiments | Python/LLMs | 🤖 [Repo] |
 
 
 <div align="center">
