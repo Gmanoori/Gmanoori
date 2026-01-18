@@ -59,6 +59,7 @@
 | Project | Description | Tech | 📊
 |---------|-------------|------|-----|
 | [project1](https://github.com/Gmanoori/POC) | Spark + Airflow ETL beast | Spark/Scala/Docker | 🚀 [Demo] |
+| [Shell Validator]https://github.com/Gmanoori/Shell-Validator) | Code Validator Using Bash  | Bash Scripting/Docker | 🚀 [Repo](https://github.com/Gmanoori/Shell-Validator) |
 | [kafka_stream] - In Progress... | Real-time streaming POC | Kafka/SQL | 🕸️ [Blog] |
 | [Alpaca RAG](https://github.com/Gmanoori/LLM_v0) | Local LLM experiments | Python/LLMs | 🤖 [Repo] |
 
